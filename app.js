@@ -1,4 +1,4 @@
 
-const message = "Hello World, this simple application tells a random Dad joke 😂";
+const message = "What kind of magic do cows believe in? MOODOO 😂";
 
 console.log(message)
