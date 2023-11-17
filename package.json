@@ -1,0 +1,8 @@
+{
+  "name": "jira-with-github",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:0xJamin/jira-with-github.git",
+  "author": "Jamin <okpusjamin@gmail.com>",
+  "license": "MIT"
+}
